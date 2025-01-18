@@ -108,3 +108,4 @@ C:\Users\ADMIN\3D Objects\UnitTestAPI\Test_ProductAPI\obj\Debug\net8.0\refint\Te
 C:\Users\ADMIN\3D Objects\UnitTestAPI\Test_ProductAPI\obj\Debug\net8.0\Test_ProductAPI.pdb
 C:\Users\ADMIN\3D Objects\UnitTestAPI\Test_ProductAPI\obj\Debug\net8.0\Test_ProductAPI.genruntimeconfig.cache
 C:\Users\ADMIN\3D Objects\UnitTestAPI\Test_ProductAPI\obj\Debug\net8.0\ref\Test_ProductAPI.dll
+C:\Users\ADMIN\3D Objects\UnitTestAPI\Test_ProductAPI\obj\Debug\net8.0\Test_ProductAPI.sourcelink.json

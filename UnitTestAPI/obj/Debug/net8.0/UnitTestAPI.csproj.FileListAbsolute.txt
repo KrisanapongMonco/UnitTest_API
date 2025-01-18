@@ -33,3 +33,4 @@ C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\refint\UnitTe
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.pdb
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.genruntimeconfig.cache
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\ref\UnitTestAPI.dll
+C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.sourcelink.json
