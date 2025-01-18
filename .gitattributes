@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ensure consistent line endings
+* text=auto eol=lf
+
+# Exclude Visual Studio files
+.vs/ export-ignore
+
+# Exclude .vs directory files from line ending normalization
+.vs/** binary

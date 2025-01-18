@@ -1,0 +1,4 @@
+// ...existing code...
+
+# Ignore Visual Studio files
+.vs/
