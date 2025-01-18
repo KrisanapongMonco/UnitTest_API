@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\Test_ProductAPI\\Test_ProductAPI.csproj": {}
+    "D:\\UnitTest_API\\Test_ProductAPI\\Test_ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\Test_ProductAPI\\Test_ProductAPI.csproj": {
+    "D:\\UnitTest_API\\Test_ProductAPI\\Test_ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\Test_ProductAPI\\Test_ProductAPI.csproj",
+        "projectUniqueName": "D:\\UnitTest_API\\Test_ProductAPI\\Test_ProductAPI.csproj",
         "projectName": "Test_ProductAPI",
-        "projectPath": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\Test_ProductAPI\\Test_ProductAPI.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\Test_ProductAPI\\obj\\",
+        "projectPath": "D:\\UnitTest_API\\Test_ProductAPI\\Test_ProductAPI.csproj",
+        "packagesPath": "C:\\Users\\krisa\\.nuget\\packages\\",
+        "outputPath": "D:\\UnitTest_API\\Test_ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\UnitTestAPI.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\UnitTestAPI.csproj"
+              "D:\\UnitTest_API\\UnitTestAPI\\UnitTestAPI.csproj": {
+                "projectPath": "D:\\UnitTest_API\\UnitTestAPI\\UnitTestAPI.csproj"
               }
             }
           }
@@ -90,24 +90,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\UnitTestAPI.csproj": {
+    "D:\\UnitTest_API\\UnitTestAPI\\UnitTestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\UnitTestAPI.csproj",
+        "projectUniqueName": "D:\\UnitTest_API\\UnitTestAPI\\UnitTestAPI.csproj",
         "projectName": "UnitTestAPI",
-        "projectPath": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\UnitTestAPI.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\3D Objects\\UnitTestAPI\\UnitTestAPI\\obj\\",
+        "projectPath": "D:\\UnitTest_API\\UnitTestAPI\\UnitTestAPI.csproj",
+        "packagesPath": "C:\\Users\\krisa\\.nuget\\packages\\",
+        "outputPath": "D:\\UnitTest_API\\UnitTestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -165,7 +165,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

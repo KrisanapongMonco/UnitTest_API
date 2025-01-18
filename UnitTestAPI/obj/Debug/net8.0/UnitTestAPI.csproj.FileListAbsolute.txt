@@ -33,3 +33,39 @@ C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\refint\UnitTe
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.pdb
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.genruntimeconfig.cache
 C:\Users\ADMIN\3D Objects\UnitTestAPI\UnitTestAPI\obj\Debug\net8.0\ref\UnitTestAPI.dll
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\appsettings.json
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.staticwebassets.endpoints.json
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.exe
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.deps.json
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.runtimeconfig.json
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.dll
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\UnitTestAPI.pdb
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UnitTest_API\UnitTestAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.csproj.AssemblyReference.cache
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.AssemblyInfoInputs.cache
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.AssemblyInfo.cs
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.csproj.CoreCompileInputs.cache
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.sourcelink.json
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\scopedcss\bundle\UnitTestAPI.styles.css
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets\msbuild.UnitTestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets\msbuild.UnitTestAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.UnitTestAPI.props
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UnitTestAPI.props
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UnitTestAPI.props
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTest.5C84DDDA.Up2Date
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.dll
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\refint\UnitTestAPI.dll
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.pdb
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\UnitTestAPI.genruntimeconfig.cache
+D:\UnitTest_API\UnitTestAPI\obj\Debug\net8.0\ref\UnitTestAPI.dll
